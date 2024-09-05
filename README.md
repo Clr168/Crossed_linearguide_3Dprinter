@@ -1,5 +1,5 @@
 # Crossed_linearguide_3Dprinter
 This printer seems like an UM2 linear version,but it's a 4 motor powered more powerful one
-DIY3d打印机 线轨um2结构 可打碳纤维耗材_哔哩哔哩_bilibili
-(indro video)
-I only provide the thought of new structure,you guys have to improve the engineering stuff for greater performance.
+
+indro video 锛歨ttps://www.bilibili.com/video/BV1EB4y197ZR/?spm_id_from=333.999.0.0&vd_source=3c565d94872df48ff545801afb14070c
+I only provide the thought of new structure,guys have to improve the engineering stuff for greater performance.
